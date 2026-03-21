@@ -11,3 +11,7 @@ NumPy/NumPy .pdf
 # Python
 __pycache__/
 *.pyc
+
+output.txt
+output2.txt
+output3.txt
