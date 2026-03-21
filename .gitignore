@@ -1,2 +1,13 @@
 Python/
-NumPy/Numpy .pdf
+NumPy/NumPy .pdf
+
+# Environments
+.env
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
