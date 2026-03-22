@@ -7,9 +7,6 @@ NumPy/NumPy .pdf
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-thinking_data.ipynb
-numpy_tutorial.ipynb
-pandas_tutorial.ipynb
 
 # Python
 __pycache__/
@@ -18,8 +15,3 @@ __pycache__/
 output.txt
 output2.txt
 output3.txt
-
-Pandas/pandas_tutorial.ipynb
-NumPy/numpy_tutorial.ipynb
-
-Data/thinking_data.ipynb
