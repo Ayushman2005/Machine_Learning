@@ -7,6 +7,9 @@ NumPy/NumPy .pdf
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+thinking_data.ipynb
+numpy_tutorial.ipynb
+pandas_tutorial.ipynb
 
 # Python
 __pycache__/
